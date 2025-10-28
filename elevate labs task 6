@@ -33,15 +33,15 @@ Passwords by Complexity
 
          * Mix of uppercase, symbol, and numbers, but still predictable.
 
-            3. Strong → Mujahed#99
+            3. Strong → Moinnnn#99
 
                * Upper/lowercase, special character, numbers, but still based on your name.
 
-                  4. Very Strong → Ali!7xQ2&kL
+                  4. Very Strong → moi!7xQ2&kL
 
                      * Randomized mix, not based on personal info.
 
-                        5. Extremely Strong (Passphrase) → Cyber$Tiger_42RunsFast!
+                        5. Extremely Strong (Passphrase) → Cyber#Tiger_42RunsSlow!
 
                            * Long, memorable passphrase with uppercase, lowercase, numbers, and symbols.
 2. Password Strength Analysis (Simulated Checker Feedback)
@@ -49,26 +49,26 @@ Passwords by Complexity
 
 (Based on common password strength checkers like passwordmonster.com)
    
-1)Password: syed123
+1)Password: afif123
                            * Score: VeryWeak
                            * Feedback:Your password is very weak because it contains a surname and a sequence of characters.
                            * Crack Time (Brute Force):3.36 seconds
 
 
-2)Password: Syed@2025
+2)Password: Afif@2085
                            * Score: Medium 
                            * Feedback: Your password is of medium strength because it contains a surname, a dictionary word and a combination of characters that are close together on the keyboard.
                            * Crack Time: 7 hours
 
 
-3)Password:Mujahed#99
+3)Password:Moinnnn#99
                            * Score: Very strong
                            * Characters :10 
                            * Feedback:  Fantastic, using that password makes you as secure as Fort Knox.
                            * Crack Time: 2 thousand years
 
 
-4)Password:Ali!7xQ2&kL
+4)Password:moi!7xQ2&kL
                            * Score: Very Strong
                            * Characters :11
 
@@ -77,7 +77,7 @@ Passwords by Complexity
 
 
 
-5)Password:Cyber$Tiger_42RunsFast!
+5)Password:Cyber#Tiger_42RunsSlow!
                               * Score: Extremely Strong
                               * Characters:23 
                               * Feedback: Fantastic, using that password makes you as secure as Fort Knox.
