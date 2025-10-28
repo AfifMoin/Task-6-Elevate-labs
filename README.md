@@ -28,10 +28,10 @@ Understand what makes a password strong and test it against password strength to
 
 | Password | Score | Characters | Crack Time | Feedback |
 |----------|-------|------------|------------|----------|
-| `afif123` | Very Weak | 6 | 3.36 sec | Contains name & simple sequence |
+| `afif123` | Very Weak | 7 | 3.36 sec | Contains name & simple sequence |
 | `Afif@2085` | Medium | 9 | 7 hrs | Predictable pattern & name-based |
 | `Moinnnn#99` | Very Strong | 10 | 2000 yrs | Excellent strength |
-| `moi!7xQ2&kL` | Very Strong | 11 | 2000 yrs | Excellent strength |
+| `moi!7xQ2&kL` | Very Strong | 10 | 2000 yrs | Excellent strength |
 | `Cyber#Tiger_42RunsSlow!` | Extremely Strong | 23 | 308 million yrs | Passphrase, very resilient |
 
 ---
