@@ -1,0 +1,151 @@
+Task 6 : Create a Strong Password and Evaluate Its Strength.
+
+
+Objective: Understand what makes a password strong and test it against password strength tools.
+
+
+Tools: Online free password strength checkers (e.g., passwordmeter.com).
+
+
+Deliverables: Report showing password strength results and explanation
+
+
+
+
+Name : Afif Moin 
+
+
+
+
+
+
+
+
+1. Create Multiple Passwords with Varying Complexity
+
+
+Passwords by Complexity
+1. Weak → syed123
+
+   * Uses your name + numbers (too easy to guess).
+
+      2. Fair → Syed@2025
+
+         * Mix of uppercase, symbol, and numbers, but still predictable.
+
+            3. Strong → Mujahed#99
+
+               * Upper/lowercase, special character, numbers, but still based on your name.
+
+                  4. Very Strong → Ali!7xQ2&kL
+
+                     * Randomized mix, not based on personal info.
+
+                        5. Extremely Strong (Passphrase) → Cyber$Tiger_42RunsFast!
+
+                           * Long, memorable passphrase with uppercase, lowercase, numbers, and symbols.
+2. Password Strength Analysis (Simulated Checker Feedback)
+
+
+(Based on common password strength checkers like passwordmonster.com)
+   
+1)Password: syed123
+                           * Score: VeryWeak
+                           * Feedback:Your password is very weak because it contains a surname and a sequence of characters.
+                           * Crack Time (Brute Force):3.36 seconds
+
+
+2)Password: Syed@2025
+                           * Score: Medium 
+                           * Feedback: Your password is of medium strength because it contains a surname, a dictionary word and a combination of characters that are close together on the keyboard.
+                           * Crack Time: 7 hours
+
+
+3)Password:Mujahed#99
+                           * Score: Very strong
+                           * Characters :10 
+                           * Feedback:  Fantastic, using that password makes you as secure as Fort Knox.
+                           * Crack Time: 2 thousand years
+
+
+4)Password:Ali!7xQ2&kL
+                           * Score: Very Strong
+                           * Characters :11
+
+                           * Feedback: Fantastic, using that password makes you as secure as Fort Knox.
+                           * Crack Time:2 thousand years
+
+
+
+5)Password:Cyber$Tiger_42RunsFast!
+                              * Score: Extremely Strong
+                              * Characters:23 
+                              * Feedback: Fantastic, using that password makes you as secure as Fort Knox.
+                              * Crack Time: 308 million years
+
+
+3.Best Practices for Creating Strong Passwords
+                              1. Use at least 12–16 characters (longer = stronger).
+
+                              2. Mix uppercase, lowercase, numbers, and symbols.
+
+                              3. Avoid personal info (name, birthdate, phone number).
+
+                              4. Don’t use dictionary words or common patterns (Password123, Qwerty@2025).
+
+                              5. Use unique passwords for each account.
+
+                              6. Prefer passphrases (random words + symbols) for both strength and memorability.
+
+                              7. Store passwords securely in a password manager.
+
+                              8. Enable Multi-Factor Authentication (MFA) wherever possible.
+
+
+4.Tips Learned from Evaluation
+                                 * Length is the biggest factor → even simple words become hard to crack if very long.
+
+                                 * Randomness protects against dictionary attacks.
+
+                                 * Symbols and numbers slow down brute-force attacks.
+
+                                 * Passphrases strike the best balance → easy to remember but very strong.
+
+                                 * Avoid reusing passwords across accounts.
+
+5.Common Password Attacks
+                                    1. Brute Force Attack
+ Try every possible character combination until the correct password is found. Long and complex passwords make this extremely slow.
+
+                                    2. Dictionary Attack
+ Uses a predefined list of common words and passwords. Any simple or word-based password is vulnerable.
+
+                                    3. Credential Stuffing
+ Hackers reuse leaked username-password pairs across multiple sites. Unique passwords prevent this.
+
+                                    4. Phishing
+ Tricks users into revealing passwords via fake emails, websites, or messages. User awareness and MFA help stop it.
+
+                                    5. Keylogging
+ Malware records keystrokes to steal passwords directly from the victim’s device. Anti-malware and cautious downloads defend against it.
+
+                                    6. Shoulder Surfing
+ Attackers watch you type your password in public. Awareness and password managers help reduce this risk.
+
+                                    7. Rainbow Table Attack
+ Uses precomputed hash values of common passwords to crack hashed databases quickly. Strong hashing and salts prevent it.
+
+                                    8. Man-in-the-Middle (MitM) Attack
+ Intercepts communications between user and server to capture login credentials. HTTPS, VPNs, and MFA provide protection.
+
+
+6.Password Complexity & Security – Summary
+                                       1. Length is Power → Longer passwords take exponentially more time to crack. A 6-character password may fall in seconds, but a 14+ character password can take centuries.
+
+                                       2. Character Variety → Mixing uppercase, lowercase, numbers, and symbols increases the number of possible combinations, making brute-force attacks far harder.
+
+                                       3. Randomness Beats Patterns → Predictable words, dates, or sequences are easy targets for dictionary attacks, while random or passphrase-based passwords resist them.
+
+                                       4. Passphrases Work Best → Combining random words with numbers/symbols creates strong, memorable, and resilient passwords.
+
+                                       5. Defense Against Attacks → Complex passwords drastically reduce the success of brute force, dictionary, and credential-stuffing attacks, improving overall account security.
